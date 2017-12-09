@@ -1,0 +1,2 @@
+# MyGitRepository
+my new repository
